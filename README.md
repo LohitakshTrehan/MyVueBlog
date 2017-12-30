@@ -1,8 +1,8 @@
-# 10_vue_after_routing
+# MyVueBlog
 
-> A Personal Blog using VUEJS and vue additional libraries like:
-> Vue-Router and Vue-Resource
-> Project is run on vue development server
+> A Personal Blog using VUEJS and vue additional libraries like:<br>
+> Vue-Router and Vue-Resource<br>
+> Project is run on vue development server<br>
 > TO RUN THE PROJECT DO INCLUDE YOUR OWN  FIREBASE
 > DATABASE LINK WITH APPROPRIATE READ WRITE RULES
 
